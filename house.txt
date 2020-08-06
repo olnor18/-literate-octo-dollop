@@ -1,9 +1,9 @@
 
-         $
-  /---\ $
- /     \U
-/       \
----------
+         $            xxxxxxxx
+  /---\ $           xxxxxxxxxxxx
+ /     \U          xxxxxxxxxxxxxx
+/       \           xxxxxxxxxxxx
+---------              xxxxxx
 Í █  █  I                I I
 I       I                 I I
 I  ---  I                  I I
